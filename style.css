@@ -1,0 +1,27 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: lightgray;
+}
+
+header {
+    background-color: lightblue;
+}
+
+#about-me {
+    background-color: lightgray;
+}
+
+#work {
+    background-color: lemonchiffon;
+}
+
+#contact-me {
+    background-color: lightblue;
+}
+
+#resume {
+    background-color: lightblue;
+}
