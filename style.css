@@ -3,6 +3,10 @@
     box-sizing: border-box;
 }
 
+:root {
+    --pastel-green: rgb(203, 249, 203);
+}
+
 head {
     font-weight: bolder;
 }
@@ -40,7 +44,7 @@ footer {
 }
 
 .navigate a {
-    background-color: rgb(203, 249, 203);
+    background-color: var(--pastel-green);
     color: black;
     float: right;
     text-align: center;
@@ -107,7 +111,7 @@ img {
 }
 
 #work {
-    background-color: rgb(203, 249, 203);
+    background-color: var(--pastel-green);
     text-align: center;
     display: inline-flexbox;
     padding-top: 1px;
