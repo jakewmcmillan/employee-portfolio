@@ -9,7 +9,6 @@ head {
 
 body {
     background-color: ivory;
-    padding-top: 20px;
     margin: 0%;
 }
 
@@ -29,7 +28,8 @@ header a:hover {
 }
 
 main {
-    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .navigate a {
@@ -64,6 +64,12 @@ h3 {
     padding-left: 20px;
 }
 
+h4 {
+    position: absolute;
+    background-color: lemonchiffon;
+    font-size: 24px;
+}
+
 img {
     display: block;
     margin: 0 auto;
@@ -77,6 +83,8 @@ img {
 .box {
     float: left;
     width: 50%;
+    padding: 10px;
+    min-width: 400px;
 }
 
 #about-me {
@@ -89,6 +97,8 @@ img {
     text-align: center;
     display: inline-flexbox;
     padding-top: 1px;
+    position: relative;
+    display: inline-block;
 }
 
 #contact-me {
