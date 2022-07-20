@@ -4,5 +4,5 @@ I built this project as a starting point for a personal web development profile 
 
 [Link to my page: file:///Users/jakemcmillan/Desktop/coding_projects/employee-portfolio/index.html](file:///Users/jakemcmillan/Desktop/coding_projects/employee-portfolio/index.html)
 
-Screenshot:
+Screenshot of deployed page:
 ![Screenshot](website-screenshot.png)
