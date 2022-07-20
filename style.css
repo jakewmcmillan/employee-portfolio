@@ -14,6 +14,7 @@ head {
 body {
     background-color: ivory;
     margin: 0%;
+    height: 100%;
 }
 
 header {
@@ -111,6 +112,7 @@ img {
 }
 
 .box1 {
+    float: left;
     flex-grow: 2;
     width: 100%;
     padding: 10px;
